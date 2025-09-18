@@ -1,7 +1,7 @@
 {
   "name": "@onhive.io/astro-loader",
   "description": "Astro Content Layer loader for the Hive blockchain",
-  "homepage": "https:/onhive.io/tools/hive-astro-loader/",
+  "homepage": "https://onhive.io/tools/hive-astro-loader/",
   "keywords": [
     "astro",
     "astro-component",
@@ -50,7 +50,7 @@
     "typescript-eslint": "^8.15.0"
   },
   "peerDependencies": {
-    "astro": "^4.16.7"
+    "astro": "^4.16.7 || ^5.0.0"
   },
   "lint-staged": {
     "**/*": [
